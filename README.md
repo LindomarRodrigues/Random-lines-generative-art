@@ -1,7 +1,7 @@
 # Random lines generative art
-Esta é minha implementação de forma generativa de um wallpaper que vi em uma loja de roupas.
+This is my generative implementation of a wallpaper I saw in a clothing store.
 
-## Resultado
+## RESULT
 <img src="https://github.com/LindomarRodrigues/Random-lines-generative-art/blob/master/RandomLines.png" height="60%" width="60%">
 
 ## License
