@@ -1,5 +1,5 @@
 # Random lines generative art
-This is my generative implementation of a wallpaper I saw in a clothing store.
+This is my generative implementation of a wallpaper.
 
 ## RESULT
 <img src="https://github.com/LindomarRodrigues/Random-lines-generative-art/blob/master/RandomLines.png" height="60%" width="60%">
